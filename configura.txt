@@ -1,0 +1,5 @@
+## configura.txt
+
+
+# Haciendo pruebas para subir a GitHub este proyecto
+- Prueba 1: Fallida
